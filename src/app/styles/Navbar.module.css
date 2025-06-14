@@ -18,10 +18,11 @@
   gap: 25px;
   margin-right: 50px;
   padding:10px;
+  font-size: 20px;
 }
 
 .opcao {
-  color: #2a1d21  ;
+  color: #371514   ;
   text-decoration: none;
   font-weight: bold;
   padding: 5px;
@@ -30,7 +31,7 @@
 }
 
 .opcao:hover {
-  color: #bc6c25 ;
+  color: #7f7062   ;
 }
 
 .cadastro{
@@ -49,3 +50,15 @@
   color: #ffffff;
 }   
   
+.linkComIcone {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  color: inherit;
+  color: #473235;
+}
+
+.linkComIcone:hover {
+  color: #7f7062;
+}

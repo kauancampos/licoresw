@@ -11,10 +11,10 @@ function Navbar() {
             <nav className={style.navbar}>
                 <Image className={style.logo} src={logo} alt="Logo da Wlicores" width={400} height={350} />
                 <ul className={style.opcoes}>
-                    <li className={style.opcao}><a href="/page">Home</a></li>
-                    <li className={style.opcao}><ShoppingCart /><a href="/produtos">Produtos</a></li>
+                    <li className={style.opcao}><a href="/page">Home</a></li>                    
                     <li className={style.opcao}><a href="/sobre">Sobre</a></li>
                     <li className={style.opcao}><a href="/contato">Contato</a></li>
+                    <li className={style.opcao}><a href="/produtos" className={style.linkComIcone}>Produtos<ShoppingCart/></a></li>
                     <button className={style.cadastro}><a href="/cadastro">Cadastro</a></button>
                 </ul>
             </nav>

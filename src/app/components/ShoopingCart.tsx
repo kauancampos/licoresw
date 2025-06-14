@@ -1,7 +1,7 @@
 import { ShoppingCart as ShoppingCartIcon } from "lucide-react";
 
 function ShoppingCart() {
-  return <ShoppingCartIcon size={20} color="#fff" />;
+  return <ShoppingCartIcon size={20} color="#473235" />;
     
 }
 

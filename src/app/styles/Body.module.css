@@ -1,0 +1,20 @@
+.body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: #292d26;
+    height: 700px;
+}
+
+.subtituloContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.imagemContainer img{
+  background-color: #6B3F25; 
+  border-radius: 10px;
+}
