@@ -12,8 +12,12 @@ function Body() {
 
             <div className={styleText.subtituloContainer}>
                 <p className={styleText.texto}>
-                    A Wlicores é uma loja especializada em tintas e materiais de pintura, oferecendo uma ampla gama de produtos para atender às suas necessidades de decoração e renovação.
-                    Navegue por nossa seleção de tintas, pincéis, rolos e muito mais!
+                    Na W Licores, cada garrafa é uma experiência. Trabalhamos com os melhores fornecedores e selecionamos cuidadosamente nossos produtos para oferecer a você licores de altíssima qualidade, com sabor refinado e apresentação impecável.
+
+                    Seja para uma celebração especial ou para curtir bons momentos com quem você ama, nossos rótulos unem tradição, sofisticação e excelência em cada detalhe.
+                    <br/>
+                    <br/>
+                    Descubra uma variedade de sabores únicos e sinta o prazer de degustar um bom licor como ele deve ser: autêntico e inesquecível.
                 </p>
 
                 <div className={styleText.imagemContainer}>

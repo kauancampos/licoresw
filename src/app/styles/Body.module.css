@@ -4,16 +4,26 @@
     margin: 0;
     padding: 20px;
     color: #292d26;
-    height: 700px;
+    height: 650px;
 }
 
-.subtituloContainer{
-    margin-top: 50px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+.titulo{
+  font-size: 35px;
+}
+
+.subtituloContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
 
 }
+
+.texto {
+  flex: 1;
+  font-size: 22px;
+}
+
 .imagemContainer img{
   background-color: #6B3F25; 
   border-radius: 10px;
